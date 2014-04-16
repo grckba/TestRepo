@@ -1,0 +1,3 @@
+<? 
+echo "Testing git repo"
+?>
